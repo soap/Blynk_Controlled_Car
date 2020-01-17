@@ -27,7 +27,7 @@
 #define ForwardDir      LOW   // LOW level for forward direction
 #define BackwardDir     HIGH  // HIGH level for backward direction
 
-char blynk_token[] = "kIh2dwtVeLnSHUruROs9lk-xxxxxxxxx"; //"kIh2dwtVeLnSHUruROs9lk-g5sfxbzgx";
+char blynk_token[] = "kIh2dwtVeLnSHUruROs9lk-xxxxxxxxx";
 
 int minRange = 312;
 int maxRange = 712;
